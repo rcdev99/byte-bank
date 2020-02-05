@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"m":"bytebank","l":"br.com.alura.controller"},{"m":"bytebank","l":"br.com.alura.model"},{"m":"bytebank","l":"bytebank"},{"m":"bytebank","l":"testes"}]
